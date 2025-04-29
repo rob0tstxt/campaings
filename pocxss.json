@@ -5,5 +5,10 @@
     "version": "1.0.0",
     "description": "<img src=x onerror=alert(1)>"
   },
+  "servers": [
+    {
+      "url": "/JSSResource/\"><img src=x onerror=alert(1)>"
+    }
+  ],
   "paths": {}
 }
